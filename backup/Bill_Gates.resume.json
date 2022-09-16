@@ -1,0 +1,93 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bill Gates",
+    "label": "Co-chair, Bill & Melinda Gates Foundation",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "williamhgates",
+        "url": "https://www.linkedin.com/in/williamhgates/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "position": "Co-chair",
+      "startDate": "2000-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/8736",
+      "location": null
+    },
+    {
+      "name": "Breakthrough Energy ",
+      "position": "Founder",
+      "startDate": "2015-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/19141006",
+      "location": null
+    },
+    {
+      "name": "Microsoft",
+      "position": "Co-founder",
+      "startDate": "1975-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/1035",
+      "location": null
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Harvard University",
+      "area": "",
+      "studyType": "",
+      "startDate": "1973-12-31",
+      "endDate": "1975-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lakeside School",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
