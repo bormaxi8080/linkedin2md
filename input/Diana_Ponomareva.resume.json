@@ -1,0 +1,125 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Diana Ponomareva",
+    "label": "Руководитель рекрутингового агентства IT.и Пишите мне в телегу @diana_com только IT специалисты Темы публикаций: #crypto, #blockchain и #recruiting",
+    "image": "",
+    "email": "diana.4681@mail.ru",
+    "phone": "+35795148563",
+    "url": "",
+    "summary": "Phone : +357 95 148563\nE-mail: diana.4681@mail.ru\nSkype: diana ponomareva\nTelegram @diana_com",
+    "location": {
+      "countryCode": "RU",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "diana-ponomareva",
+        "url": "https://www.linkedin.com/in/diana-ponomareva/"
+      },
+      {
+        "network": "Twitter",
+        "username": "Diana_Redcode",
+        "url": "https://twitter.com/Diana_Redcode"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "RedCode",
+      "position": "Senior IT Recruiter",
+      "startDate": "2014-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Я знаю всех ваших будущих сотрудников. Хантинг. Точечный поиск. Выстраивание работы команды рекрутеров. Формирование команды поиска и обучение it рекрутеров с нуля. \nПолный цикл подбора и других обязанностей:\n\n- Снятие заявки/ТЗ\n- Составление текста вакансии\n- Сорсинг на всех возможных площадках\n- Скрининг резюме\n- Первичные собеседования\n- Общение в чатах с заказчиками\n- Общение с кандидатам\n- Сопровождение кандидатов на этапе испытательного срока\n- Корректировка поиска кандидатов после технических собеседований\n- Team lead команды\n- Наставничество новых сотрудников\n- Составление регламентов\n- Анализ рынка заработных плат по вакансии\n\nСписок вакансий которые были в работе:\n- Системный аналитик\n- Devops engineer\n- Руководитель группы разработчиков Java\n- Solidity developer\n- Senior C# developer\n- PHP разработчик\n- Архитектор DWH\n- Product Owner\n- Senior Ruby Developer\n- Аналитик DWH (Senior)\n- Senior Software Engineer\n- Full Stack Developer\n- Game designer\n- Senior Developer (Unity 3D)\n- Unity 3D developer\n- Java (ETL) разработчик\n- Senior Frontend engineer\n- Senior Software Engineer, C++\n\n\nОткрыта к предложениям на позицию руководителя отдела подбора. Рассматриваю вакансии с релокацией. \n\n\nIT-рекрутер",
+      "url": "https://www.linkedin.com/company/redcod/",
+      "location": "Москва, Россия"
+    },
+    {
+      "name": "RedCode",
+      "position": " Chief Executive Officer",
+      "startDate": "2018-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Управляю и развиваю рекрутинговое агентство специализирующееся на поиске it  специалистов. Разработка и сопровождение всех цифровых продуктов.",
+      "url": "https://www.linkedin.com/company/redcod/",
+      "location": "Москва, Россия"
+    },
+    {
+      "name": "Recruitment Freelancer",
+      "position": "IT Recruter",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Закрытие различных вакансий в сфере IT\nРазработка, тестирование, администрирование , сетевая инженерия, сопровождение, техподдержка, 1С",
+      "url": "https://www.linkedin.com/company/rustic-candles-events/",
+      "location": "Москва, Россия"
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Высшее руководство",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Искусство публичного выступления",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Executive search",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Обучение",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Обучение и развитие",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Подбор персонала",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Сорсинг",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Формирование команды",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Командная работа",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "ru",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

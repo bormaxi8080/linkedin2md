@@ -1,2 +1,5 @@
 # linkedin2md
-Export public LinkedIn profile to Markdown format
+
+Export public LinkedIn profile to Markdown format.
+
+
