@@ -185,22 +185,26 @@ In this concept, I make extensive use of simple search approaches in markdown wi
 
 ### Restrictions:
 
-*About profile photo saving:
+*General application:
 
-This has come up before and I did not categorize it as a bug that can be "fixed", and I'm still reluctant to do so.
-The URL that LinkedIn provides for the profile picture is not actually a permanent URL - it looks like some variant of a temporary signed URL. If I make a guess that the e={int} portion of that URL corresponds with expiration, and the integer is a unix timestamp, then it looks like that image should expire in a few months (November). I'm also not sure how consistent LinkedIn is in setting the future expiration - it almost looks like they might batch generate these instead of dynamically generating them on-demand, as loading up my own profile today showed that same e={int} value.
-With the knowledge that the profile picture URL might expire at a time outside my control, I'm still torn on whether or not this would be good to include in the JSON output. On the one hand, resumes are often used in the same time period they are generated, so maybe expiring images aren't that big of a deal. On the other hand, I don't want to get blamed if someone uses the image URL as part of their job application or website and it suddenly fails to load.
-The easiest solution here, which I mentioned the last time this came up, is for everyone to just not rely on LinkedIn for image hosting; upload your profile picture to something like imgur and then manually fill in the basics.image field.
+I haven't tested any of the above on Windows systems as I only use Linux systems.
+In general, it is assumed that the readers of this manual have the skills of advanced Linux users.
+
+*Application area:
+
+This development is not commercial or industrial and is intended primarily for the rapid handling of large datasets of people profiles, based on the concepts of working with markdown, without resorting to commercial systems, such as ATS and relational databases.
 
 *About LinkedIn scraping:
 
 LinkedIn is quite difficult to scrape, and direct profile scraping entails a number of problems, such as account bans, captcha, counteraction to security systems, and others.
 For scraping LinkedIn profiles I recommend using specialized services such as Nubela.
 
-*General application:
+*About profile photo saving:
 
-I haven't tested any of the above on Windows systems as I only use Linux systems.
-In general, it is assumed that the readers of this manual have the skills of advanced Linux users.
+This has come up before and I did not categorize it as a bug that can be "fixed", and I'm still reluctant to do so.
+The URL that LinkedIn provides for the profile picture is not actually a permanent URL - it looks like some variant of a temporary signed URL. If I make a guess that the e={int} portion of that URL corresponds with expiration, and the integer is a unix timestamp, then it looks like that image should expire in a few months (November). I'm also not sure how consistent LinkedIn is in setting the future expiration - it almost looks like they might batch generate these instead of dynamically generating them on-demand, as loading up my own profile today showed that same e={int} value.
+With the knowledge that the profile picture URL might expire at a time outside my control, I'm still torn on whether or not this would be good to include in the JSON output. On the one hand, resumes are often used in the same time period they are generated, so maybe expiring images aren't that big of a deal. On the other hand, I don't want to get blamed if someone uses the image URL as part of their job application or website and it suddenly fails to load.
+The easiest solution here, which I mentioned the last time this came up, is for everyone to just not rely on LinkedIn for image hosting; upload your profile picture to something like imgur and then manually fill in the basics.image field.
 
 ### TODOs:
 
@@ -222,3 +226,5 @@ I am looking into collaborating to transform and enrich your resume databases. I
 I will be grateful for donations to this project:
 
 > Etherium: 0xe29685d6f0032bccac08b0e745a1a69ef9803973
+
+*Note: Diana gave her permission to show her public LinkedIn profile in this project )
