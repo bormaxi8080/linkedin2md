@@ -36,8 +36,9 @@ And you'll see saved data in my downloads folder:
 Next, I use some utilities to generate a unified MD and PDF stored files.
 
 The solution is very simple: [HackMyResume](https://github.com/hacksalot/HackMyResume) utility create polished resumes and CVs in multiple formats from your command line or shell. Author in clean Markdown and JSON, export to Word, HTML, PDF, LaTeX, plain text, and other arbitrary formats.
-Fight the power, save trees. Compatible with FRESH and JRS resumes.
-
+Fight the power, save trees. Compatible with [FRESH](https://github.com/fresh-standard/fresh-resume-schema) and JRS resumes.
+HackMyResume can convert between the [FRESH](https://github.com/fresh-standard/fresh-resume-schema) and [JSON Resume](https://jsonresume.org/) formats.
+ 
 ![alt text](./images/Diana_Ponomareva.resume.json.png "Diana's JSON Profile")
 
 Run:
@@ -216,6 +217,16 @@ The easiest solution here, which I mentioned the last time this came up, is for 
 - Show ATS integrations
 - Show how to really parse and cracks some job boards
 - Show big graph view and mind maps
+
+UPD:
+
+In the latest implementation of scripts, I added DEBUG mode support, verification and analysis of resume errors.
+
+![alt text](./images/debug.png "Debug")
+
+![alt text](./images/errors.png "Errors")
+
+![alt text](./images/analyze.png "Analyze")
 
 ### Cooperation:
 

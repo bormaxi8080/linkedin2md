@@ -80,7 +80,7 @@ do
       dt=$(date +"%d.%m.%Y")
 
     PROFILE_TEXT="### $name
-[Summary]($base_name.summary.md)  [MD]($base_name.md)  [VCF]($base_name.vcf)  [PDF]($base_name.pdf)  [PDF original]($base_name.original.pdf)  [JSON]($base_name.json)
+[Summary]($base_name/$base_name.summary.md)  [MD]($base_name/$base_name.md)  [VCF]($base_name/$base_name.vcf)  [PDF]($base_name/$base_name.pdf)  [PDF original]($base_name/$base_name.original.pdf)  [JSON]($base_name/$base_name.resume.json)
 
 $dt $country_code
 $email $phone

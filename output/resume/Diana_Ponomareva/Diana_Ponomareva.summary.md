@@ -2,9 +2,9 @@
 
 Руководитель рекрутингового агентства IT.и Пишите мне в телегу @diana_com только IT специалисты Темы публикаций: #crypto, #blockchain и #recruiting
 
-Profile ID: 8D8933C8-DD0B-4E98-851E-B7D26245B17A
+Profile ID: 922D969E-CB5C-4679-B7FB-D73A8085069D
 Location: RU
-Resume Links: [MD](Diana_Ponomareva.md)  [VCF](Diana_Ponomareva.vcf)  [PDF](Diana_Ponomareva.pdf)  [PDF original](Diana_Ponomareva.original.pdf)  [JSON](Diana_Ponomareva.json)
+Resume Links: [MD](Diana_Ponomareva.md)  [VCF](Diana_Ponomareva.vcf)  [PDF](Diana_Ponomareva.pdf)  [PDF original](Diana_Ponomareva.original.pdf)  [JSON](Diana_Ponomareva.resume.json)
 
 Profiles:
 https://www.linkedin.com/in/diana-ponomareva/
@@ -31,6 +31,6 @@ Place additional profile information here!
 [Resume in Markdown](Diana_Ponomareva.md)
 [Original PDF](Diana_Ponomareva.original.pdf)
 [Generated PDF](Diana_Ponomareva.pdf)
-[Source JSON](Diana_Ponomareva.json)
+[Source JSON](Diana_Ponomareva.resume.json)
 
-[Profiles List](../profiles.md)
+[Profiles List](/profiles.md)

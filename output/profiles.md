@@ -1,5 +1,9 @@
+# Profiles list:
+
+
+
 ### Bill Gates
-[Summary](Bill_Gates.resume.json.summary.md)  [MD](Bill_Gates.resume.json.md)  [VCF](Bill_Gates.resume.json.vcf)  [PDF](Bill_Gates.resume.json.pdf)  [PDF original](Bill_Gates.resume.json.original.pdf)  [JSON](Bill_Gates.resume.json.json)
+[Summary](Bill_Gates/Bill_Gates.summary.md)  [MD](Bill_Gates/Bill_Gates.md)  [VCF](Bill_Gates/Bill_Gates.vcf)  [PDF](Bill_Gates/Bill_Gates.pdf)  [PDF original](Bill_Gates/Bill_Gates.original.pdf)  [JSON](Bill_Gates/Bill_Gates.resume.json)
 
 17.09.2022 US
  
@@ -11,7 +15,7 @@ Co-chair, Bill & Melinda Gates Foundation
 ----
 
 ### Diana Ponomareva
-[Summary](Diana_Ponomareva.resume.json.summary.md)  [MD](Diana_Ponomareva.resume.json.md)  [VCF](Diana_Ponomareva.resume.json.vcf)  [PDF](Diana_Ponomareva.resume.json.pdf)  [PDF original](Diana_Ponomareva.resume.json.original.pdf)  [JSON](Diana_Ponomareva.resume.json.json)
+[Summary](Diana_Ponomareva/Diana_Ponomareva.summary.md)  [MD](Diana_Ponomareva/Diana_Ponomareva.md)  [VCF](Diana_Ponomareva/Diana_Ponomareva.vcf)  [PDF](Diana_Ponomareva/Diana_Ponomareva.pdf)  [PDF original](Diana_Ponomareva/Diana_Ponomareva.original.pdf)  [JSON](Diana_Ponomareva/Diana_Ponomareva.resume.json)
 
 17.09.2022 RU
 diana.4681@mail.ru +35795148563
@@ -23,7 +27,7 @@ https://twitter.com/Diana_Redcode
 ----
 
 ### Maxim Marshak
-[Summary](Maxim_Marshak.resume.json.summary.md)  [MD](Maxim_Marshak.resume.json.md)  [VCF](Maxim_Marshak.resume.json.vcf)  [PDF](Maxim_Marshak.resume.json.pdf)  [PDF original](Maxim_Marshak.resume.json.original.pdf)  [JSON](Maxim_Marshak.resume.json.json)
+[Summary](Maxim_Marshak/Maxim_Marshak.summary.md)  [MD](Maxim_Marshak/Maxim_Marshak.md)  [VCF](Maxim_Marshak/Maxim_Marshak.vcf)  [PDF](Maxim_Marshak/Maxim_Marshak.pdf)  [PDF original](Maxim_Marshak/Maxim_Marshak.original.pdf)  [JSON](Maxim_Marshak/Maxim_Marshak.resume.json)
 
 17.09.2022 US
 marshak.maxim@gmail.com 

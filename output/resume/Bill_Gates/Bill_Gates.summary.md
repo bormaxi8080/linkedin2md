@@ -2,9 +2,9 @@
 
 Co-chair, Bill & Melinda Gates Foundation
 
-Profile ID: 5C11275B-3E3E-4AA7-B2F7-ACDAA7EEAB17
+Profile ID: ED627D0B-222C-45D0-A977-24D8B73F8479
 Location: US
-Resume Links: [MD](Bill_Gates.md)  [VCF](Bill_Gates.vcf)  [PDF](Bill_Gates.pdf)  [PDF original](Bill_Gates.original.pdf)  [JSON](Bill_Gates.json)
+Resume Links: [MD](Bill_Gates.md)  [VCF](Bill_Gates.vcf)  [PDF](Bill_Gates.pdf)  [PDF original](Bill_Gates.original.pdf)  [JSON](Bill_Gates.resume.json)
 
 Profiles:
 https://www.linkedin.com/in/williamhgates/
@@ -28,6 +28,6 @@ Place additional profile information here!
 [Resume in Markdown](Bill_Gates.md)
 [Original PDF](Bill_Gates.original.pdf)
 [Generated PDF](Bill_Gates.pdf)
-[Source JSON](Bill_Gates.json)
+[Source JSON](Bill_Gates.resume.json)
 
-[Profiles List](../profiles.md)
+[Profiles List](/profiles.md)

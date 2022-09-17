@@ -2,9 +2,9 @@
 
 Sociopathic cat lover. Python, Node.js, Perl Developer at Secret NDA Place. OSINT & DevOps activities. Sometimes hiring in IT. Telegram: @bormaxi
 
-Profile ID: 638CCB12-E186-4004-A01F-1DAF38121294
+Profile ID: 23E57E78-7C73-46B2-9CD7-13AEE3ECBC46
 Location: US
-Resume Links: [MD](Maxim_Marshak.md)  [VCF](Maxim_Marshak.vcf)  [PDF](Maxim_Marshak.pdf)  [PDF original](Maxim_Marshak.original.pdf)  [JSON](Maxim_Marshak.json)
+Resume Links: [MD](Maxim_Marshak.md)  [VCF](Maxim_Marshak.vcf)  [PDF](Maxim_Marshak.pdf)  [PDF original](Maxim_Marshak.original.pdf)  [JSON](Maxim_Marshak.resume.json)
 
 Profiles:
 https://www.linkedin.com/in/maxim-marshak/
@@ -45,6 +45,6 @@ Place additional profile information here!
 [Resume in Markdown](Maxim_Marshak.md)
 [Original PDF](Maxim_Marshak.original.pdf)
 [Generated PDF](Maxim_Marshak.pdf)
-[Source JSON](Maxim_Marshak.json)
+[Source JSON](Maxim_Marshak.resume.json)
 
-[Profiles List](../profiles.md)
+[Profiles List](/profiles.md)

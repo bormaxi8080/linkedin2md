@@ -85,10 +85,17 @@ do
   # JSON
   if [ "$extension" = "json" ]
   then
+    ## TODO: check INVALID resume verification parameters
+
+    # validate resume
+    node HackMyResume/src/cli/index.js validate "$file" -d
+    # analyze resume
+    node HackMyResume/src/cli/index.js analyze "$file" --debug
+
     # build resumes in such formats
     #node HackMyResume/src/cli/index.js build "$file" TO "$TMP"/"${profile_name%.*}".all
     node HackMyResume/src/cli/index.js build "$file" TO "$TMP"/"${profile_name%.*}".md \
-    "$TMP"/"${profile_name%.*}".pdf
+    "$TMP"/"${profile_name%.*}".pdf -d
 
     #rm -rf "$TMP"/"${profile_name%.*}.json"
     #rm -rf "$TMP"/"${profile_name%.*}.doc"
@@ -128,6 +135,10 @@ do
         profiles=$(echo "$basics" | jq ".profiles")
           profiles_url=$(echo "$profiles" | jq -r ".[0,1].url")
 
+          ## TODO: remove null values
+          #profiles_url=$(sed -e 's/null//g')
+          #echo "$profiles_url"
+
         #echo "$profiles_url"
         #echo "${#$profiles_url}"
         #length=$(echo -n "$profiles_url" | wc -m)
@@ -148,11 +159,12 @@ do
         country_code="${country_code%\"}"
         country_code="${country_code#\"}"
 
+      ## TODO: do not create empty values
       PROFILE_TEXT="# $name\n
 $label\n
 Profile ID: $uuid
 Location: $country_code
-Resume Links: [MD]($profile_name.md)  [VCF]($profile_name.vcf)  [PDF]($profile_name.pdf)  [PDF original]($profile_name.original.pdf)  [JSON]($profile_name.json)\n
+Resume Links: [MD]($profile_name.md)  [VCF]($profile_name.vcf)  [PDF]($profile_name.pdf)  [PDF original]($profile_name.original.pdf)  [JSON]($profile_name.resume.json)\n
 Profiles:
 $profiles_url\n
 Email: <a href='mailto:$email'>$email</a>
@@ -167,14 +179,14 @@ Place additional profile information here!\n\n$SEPARATOR
 [Resume in Markdown]($profile_name.md)
 [Original PDF]($profile_name.original.pdf)
 [Generated PDF]($profile_name.pdf)
-[Source JSON]($profile_name.json)\n
-[Profiles List](../profiles.md)"
+[Source JSON]($profile_name.resume.json)\n
+[Profiles List](/profiles.md)"
       echo -e "$PROFILE_TEXT" > "$DIR"/"$profile_name.summary.md"
 
       dt=$(date +"%d.%m.%Y")
 
       PROFILE_TEXT="### $name
-[Summary]($base_name.summary.md)  [MD]($base_name.md)  [VCF]($base_name.vcf)  [PDF]($base_name.pdf)  [PDF original]($base_name.original.pdf)  [JSON]($base_name.json)
+[Summary]($profile_name/$profile_name.summary.md)  [MD]($profile_name/$profile_name.md)  [VCF]($profile_name/$profile_name.vcf)  [PDF]($profile_name/$profile_name.pdf)  [PDF original]($profile_name/$profile_name.original.pdf)  [JSON]($profile_name/$profile_name.resume.json)
 
 $dt $country_code
 $email $phone

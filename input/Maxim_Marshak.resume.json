@@ -1,0 +1,403 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Maxim Marshak",
+    "label": "Sociopathic cat lover. Python, Node.js, Perl Developer at Secret NDA Place. OSINT & DevOps activities. Sometimes hiring in IT. Telegram: @bormaxi",
+    "image": "",
+    "email": "marshak.maxim@gmail.com",
+    "phone": "",
+    "url": "https://github.com/bormaxi8080",
+    "summary": "I develop in Python, Node.js, GoLang, Perl, Bash. OSINT, community & DevOps activities.\nSometimes I hire targeted for positions in the IT level from middle+, with relocation outside Russia.\nWrite about hiring in IT, HR Tech, development, I participate in various professional communities.\n\nTechnology stack:\n\n- Python, Node.js, JavaScript, TypeScript, GoLang, Perl\n- PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ\n- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana\n- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.\n- Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment\n- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations\n- C++ as a secret rarely used skill\n- Java, .NET - at the level of “I can, but without fanaticism”\n- PHP - at the level of “collect or fix something quickly”\n- Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)\n- Delphi, Embarcadero, VBScript as oldfag )\n- UX, Figma, CSS, Styles - I can make it nice if needed",
+    "location": {
+      "countryCode": "US",
+      "address": "Kazakhstan"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "maxim-marshak",
+        "url": "https://www.linkedin.com/in/maxim-marshak/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Secret NDA Place",
+      "position": "Python, Node.js, Perl Developer",
+      "startDate": "2021-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "I develop backends and various automations in Python, GoLang, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside the Russian Federation), market analytics, and help in the development of professional communities. I do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.",
+      "url": "",
+      "location": "Remote"
+    },
+    {
+      "name": "RIP Leaks",
+      "position": "Merge into RIP Leaks - News of the sinking Russian import substitution",
+      "startDate": "2021-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "https://t.me/RIPLeaks\n\nWe publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic.\n\nETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973",
+      "url": "",
+      "location": "Almaty, Kazakhstan"
+    },
+    {
+      "name": "Self Employed",
+      "position": "Write to the Marshak channel and take a photo of F@king Motherland for donations",
+      "startDate": "2020-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "https://t.me/mmarshak\nhttps://www.instagram.com/ebenya_rodiny/\n\nETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973",
+      "url": "",
+      "location": "Almaty, Kazakhstan"
+    },
+    {
+      "name": "GoodJob Hiring Agency",
+      "position": "Owner",
+      "startDate": "2015-11-30",
+      "endDate": "2021-11-30",
+      "highlights": [],
+      "summary": "A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.",
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "Improve IT",
+      "position": "IT Head Hunter",
+      "startDate": "2019-06-30",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "summary": "The best all-time IT company in Novosibirsk, mobile application development. Hiring employees, hiring employees, hiring employees. First he worked under a contract, then in the state. The company closed in 2021.",
+      "url": "https://www.linkedin.com/company/improve-it-gmbh/",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "Zloy HR",
+      "position": "Moderator",
+      "startDate": "2018-06-30",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "summary": "Moderator of the largest public for HR specialists in Russia.",
+      "url": "",
+      "location": "Novosibirsk, Novosibirsk, Russia"
+    },
+    {
+      "name": "FriendWork ATS",
+      "position": "Consultant",
+      "startDate": "2017-06-30",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "summary": "Recruiting automation system. Acted as an expert when testing new system functions.",
+      "url": "",
+      "location": "Saint Petersburg Metropolitan Area"
+    },
+    {
+      "name": "FIS Group",
+      "position": "General HR Manager",
+      "startDate": "2017-08-31",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "summary": "Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.",
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "ClearScale",
+      "position": "Backend Node.js Developer",
+      "startDate": "2016-11-30",
+      "endDate": "2017-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/clearscale/",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "TION",
+      "position": "Team Lead",
+      "startDate": "2016-05-31",
+      "endDate": "2016-11-30",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Novosibirsk, Russia"
+    },
+    {
+      "name": "AppGenomix",
+      "position": "Backend Node.js Developer",
+      "startDate": "2015-12-31",
+      "endDate": "2016-05-31",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "Plamee",
+      "position": "Backend Node.js Developer",
+      "startDate": "2014-05-31",
+      "endDate": "2015-11-30",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "EleFun Games",
+      "position": "Backend Node.js Developer",
+      "startDate": "2014-12-31",
+      "endDate": "2015-04-30",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Novosibirsk, Russia"
+    },
+    {
+      "name": "Web studio",
+      "position": "Back End Developer",
+      "startDate": "2011-06-30",
+      "endDate": "2014-04-30",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "Katren",
+      "position": "ERP/CRM Developer",
+      "startDate": "2010-08-31",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "url": "",
+      "location": "Novosibirsk, Russia"
+    },
+    {
+      "name": "Top-Kniga",
+      "position": "Software Developer, DevOps Lead",
+      "startDate": "2002-04-30",
+      "endDate": "2010-06-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/top-kniga/",
+      "location": "Novosibirsk, Russia"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Novosibirsk State University (NSU)",
+      "area": "Faculty of Mechanics and Mathematics, specialty programming",
+      "studyType": "",
+      "startDate": "1997-09-30",
+      "endDate": "2002-05-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Headhunting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hiring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Relocations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Recruitment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Parsing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Human Resources (HR)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hiring Practices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Privacy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Source Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Celery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Talent Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OS X",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Executive Search",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker Products",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Scraping",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Limited Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Georgian"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Italian"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Pushtu"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Russian"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
