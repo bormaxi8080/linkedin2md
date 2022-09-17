@@ -181,7 +181,7 @@ And how some fully structural system viewed:
 
 I am currently experimenting with GraphView mappings on a base of over 50,000 non-abstracts real people resume loaded from one of more ATS systems and will post the results of these experiments.
 
-In this concept, I make extensive use of simple search approaches in markdown with Linux commands (GREP, SED, AWK, etc.), because it's very simple and useful.
+In this concept, I make extensive use of simple search approaches in markdown with Linux commands (sed, sed, awk and other Linux coomands and specific ytilities for search data in PDF, DOCX and other file formats), because it's very simple and useful.
 
 ### Restrictions:
 
