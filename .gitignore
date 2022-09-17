@@ -3,3 +3,6 @@
 
 HackMyResume*
 tmp*
+
+/output/.obsidian/*
+/output/.obsidian/workspace
