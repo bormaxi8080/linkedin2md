@@ -210,7 +210,7 @@ The easiest solution here, which I mentioned the last time this came up, is for 
 
 - Fix bugs
 - Add new cosmetics features
-- Publish resumes in Telegram channel(s)
+- Automatically publish resumes in Telegram channel(s)
 - Updating resumes and tags
 - Photo updating
 - Show ATS integrations
