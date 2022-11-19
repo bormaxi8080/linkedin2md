@@ -2,54 +2,39 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Maxim Marshak",
-    "label": "Sociopathic cat lover. Python, Node.js, Perl Developer at Secret NDA Place. OSINT & DevOps activities. Sometimes hiring in IT. Telegram: @bormaxi",
+    "label": "Sociopathic cat lover. OSINT activities & Investigations | DevOps | Python | Node.js | Perl | Bash. Sometimes hiring in IT. Twitter: @HiddenDjoker",
     "image": "",
     "email": "marshak.maxim@gmail.com",
-    "phone": "",
+    "phone": "+77771250964",
     "url": "https://github.com/bormaxi8080",
-    "summary": "I develop in Python, Node.js, GoLang, Perl, Bash. OSINT, community & DevOps activities.\nSometimes I hire targeted for positions in the IT level from middle+, with relocation outside Russia.\nWrite about hiring in IT, HR Tech, development, I participate in various professional communities.\n\nTechnology stack:\n\n- Python, Node.js, JavaScript, TypeScript, GoLang, Perl\n- PostgreSQL, MongoDB, MySql, Redis, Celery, RabbitMQ\n- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana\n- Async.IO, AIOgram, Google API, Nest.js, Express, REST API, Swagger, Selenium, and some tools & frameworks for highload, queuing, mutli threading, multi processssing, sharding, etc.\n- Perl, Bash, and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment\n- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have the talent to install and configure any software so that it works on any systems and configurations\n- C++ as a secret rarely used skill\n- Java, .NET - at the level of “I can, but without fanaticism”\n- PHP - at the level of “collect or fix something quickly”\n- Vue, React - at the level of understanding how it works (there is no industrial experience in frontend development)\n- Delphi, Embarcadero, VBScript as oldfag )\n- UX, Figma, CSS, Styles - I can make it nice if needed",
+    "summary": "I develop and investigate on Python, Node.js, Perl, Bash with OSINT, Cybesecurity & DevOps activities and practices. Sometimes I hire targeted for positions in the IT level from middle+, with relocation outside Russia, write about hiring in IT, HR Tech, development and participate in various professional communities.\n\nI do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.\n\nMy soft skills and communications:\n\n- Strong skills in hiring specialists in various career areas, mainly IT. Extensive experience in hiring and relocating specialists from Russia, all kinds of communications \n- Experience in searching for people, facts from various sources, in social networks monitoring and promoting communities, including closed ones \n- Interest in the application of OSINT techniques, research and investigations. Experience in automating, developing and configuring solutions for managing ATS and some databases with data about people and some artifacts to research it\n\nMy technical stack:\n\n- Python, Node.js, JavaScript, Perl, Bash\n- PostgreSQL, MongoDB, MySql, Redis, Django, Celery, RabbitMQ\n- AWS (EC2, Amplify, S3, RDS, Route 53, DynamoDB), ClickHouse, Prometheus, Grafana, Zabbix, Huginn, Jira administration\n- Linux (Ubuntu, Debian, Kali, Amazon Linux, Arch Linux, Parrot OS, Mikrotik OS, CentOS, FreeBSD), MacOS, Windows, Virtualization (VirtualBox, Vagrant, VMWare), Docker - at the level of normal, advanced in places, DevOps. I have a talent to install and configure any software so that it works on any systems and configurations\n- Some frameworks & tools for highload, queuing, mutli threading, multi processing, sharding, etc. for building optimal technical solutions\n- Selenium, Puppeteer, Apify, Playwright, Crawlee and at different times a bunch of all sorts of exotics, mainly integration, for parsing, scraping, crawling and data enrichment\n- Various protocols related to e-mail (POP3, IMAP, MTU logs, verification and validation of addresses through various services, mass mailings)\n\nSee https://github.com/bormaxi8080 for details.\n\nYou can contact me on Twitter: @HiddenDjoker or Telegram: @bormaxi\n\nSee https://www.linkedin.com/in/maxim-marshak/details/featured/ for my OSINT, DevOps and Development tools collection.",
     "location": {
       "countryCode": "US",
-      "address": "Kazakhstan"
+      "address": "Almaty, Kazakhstan"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "maxim-marshak",
         "url": "https://www.linkedin.com/in/maxim-marshak/"
+      },
+      {
+        "network": "Twitter",
+        "username": "HiddenDjoker",
+        "url": "https://twitter.com/HiddenDjoker"
       }
     ]
   },
   "work": [
     {
       "name": "Secret NDA Place",
-      "position": "Python, Node.js, Perl Developer",
+      "position": "Python, Node.js, Perl Developer & Investigator",
       "startDate": "2021-12-31",
       "endDate": "",
       "highlights": [],
-      "summary": "I develop backends and various automations in Python, GoLang, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside the Russian Federation), market analytics, and help in the development of professional communities. I do not consider offers from russian corporations, state structures, and office work within Russian Federation. Now I leave Russia.",
+      "summary": "I develop backends and various automations on Python, Node.js, Perl. I do some server logic, REST API, imports, exports, data parsing, scrapers, data enrichment and various other tricky things. Sometimes I am very targeted in hiring for IT companies (remote job and relocation outside Russia) and help in OSINT investigations and development of professional communities.",
       "url": "",
       "location": "Remote"
-    },
-    {
-      "name": "RIP Leaks",
-      "position": "Merge into RIP Leaks - News of the sinking Russian import substitution",
-      "startDate": "2021-06-30",
-      "endDate": "",
-      "highlights": [],
-      "summary": "https://t.me/RIPLeaks\n\nWe publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic.\n\nETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973",
-      "url": "",
-      "location": "Almaty, Kazakhstan"
-    },
-    {
-      "name": "Self Employed",
-      "position": "Write to the Marshak channel and take a photo of F@king Motherland for donations",
-      "startDate": "2020-06-30",
-      "endDate": "",
-      "highlights": [],
-      "summary": "https://t.me/mmarshak\nhttps://www.instagram.com/ebenya_rodiny/\n\nETH Donate: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973",
-      "url": "",
-      "location": "Almaty, Kazakhstan"
     },
     {
       "name": "GoodJob Hiring Agency",
@@ -57,7 +42,7 @@
       "startDate": "2015-11-30",
       "endDate": "2021-11-30",
       "highlights": [],
-      "summary": "A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 150 people outside the Russian Federation). Hiring candidates in IT from the middle level. Automated candidate database of 30+ thousand people. He created his own community, for 6 years he has gained a lot of connections and insights among different companies, incl. outside the Russian Federation. Advised companies and candidates. At different times in the team from 1 to 6 recruiters.",
+      "summary": "A small warm tube recruitment agency. Recruitment geography: Novosibirsk, remote location, relocation from the Russian Federation to Europe (I took more than 250 families outside the Russian Federation and friends gave me the nickname \"Russian Schindler\"). Hiring candidates in IT from the middle level. Automated candidate database of 50+ thousand people. I created my own community, for 6 years he has gained a lot of connections and insights among different companies at different times in the team from 1 to 6 recruiters.",
       "url": "",
       "location": "Novosibirsk, Russia"
     },
@@ -72,8 +57,8 @@
       "location": "Novosibirsk, Russia"
     },
     {
-      "name": "Zloy HR",
-      "position": "Moderator",
+      "name": "Angry HR Community",
+      "position": "Online Content Moderator",
       "startDate": "2018-06-30",
       "endDate": "2019-06-30",
       "highlights": [],
@@ -82,23 +67,23 @@
       "location": "Novosibirsk, Novosibirsk, Russia"
     },
     {
-      "name": "FriendWork ATS",
+      "name": "FriendWork Recruiter",
       "position": "Consultant",
       "startDate": "2017-06-30",
       "endDate": "2019-06-30",
       "highlights": [],
       "summary": "Recruiting automation system. Acted as an expert when testing new system functions.",
-      "url": "",
+      "url": "https://www.linkedin.com/company/friendwork/",
       "location": "Saint Petersburg Metropolitan Area"
     },
     {
-      "name": "FIS Group",
+      "name": "FIS",
       "position": "General HR Manager",
       "startDate": "2017-08-31",
       "endDate": "2018-09-30",
       "highlights": [],
-      "summary": "Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. After leaving the operating activities of the company, he hired students for internships.",
-      "url": "",
+      "summary": "Banking software company. Recruitment, work with internal HR processes, motivation, retention, HR strategy. Hired 100+ people in the company, implemented ATS. After leaving the operating activities of the company, I hired students for internships.",
+      "url": "https://www.linkedin.com/company/fis/",
       "location": "Novosibirsk, Russia"
     },
     {
@@ -107,25 +92,28 @@
       "startDate": "2016-11-30",
       "endDate": "2017-04-30",
       "highlights": [],
+      "summary": "Developing a media management project using AWS Lambda & DynamoDB",
       "url": "https://www.linkedin.com/company/clearscale/",
       "location": "Novosibirsk, Russia"
     },
     {
       "name": "TION",
-      "position": "Team Lead",
+      "position": "Information Technology Team Lead",
       "startDate": "2016-05-31",
       "endDate": "2016-11-30",
       "highlights": [],
-      "url": "",
+      "summary": "Development of projects for air quality monitoring. Managing and build processes for a team of 7 people",
+      "url": "https://www.linkedin.com/company/tionbreezer/",
       "location": "Novosibirsk, Novosibirsk, Russia"
     },
     {
-      "name": "AppGenomix",
+      "name": "Execution LLC",
       "position": "Backend Node.js Developer",
       "startDate": "2015-12-31",
       "endDate": "2016-05-31",
       "highlights": [],
-      "url": "",
+      "summary": "Development of a server on a node.js for the analysis of medical information. The project went to the customers in USA.",
+      "url": "https://www.linkedin.com/company/execution-llc/",
       "location": "Novosibirsk, Russia"
     },
     {
@@ -134,7 +122,8 @@
       "startDate": "2014-05-31",
       "endDate": "2015-11-30",
       "highlights": [],
-      "url": "",
+      "summary": "Match-3 social game server development on node.js",
+      "url": "https://www.linkedin.com/company/plamee/",
       "location": "Novosibirsk, Russia"
     },
     {
@@ -143,7 +132,8 @@
       "startDate": "2014-12-31",
       "endDate": "2015-04-30",
       "highlights": [],
-      "url": "",
+      "summary": "Online shooter server development on node.js",
+      "url": "https://www.linkedin.com/company/elefun-games/",
       "location": "Novosibirsk, Novosibirsk, Russia"
     },
     {
@@ -152,6 +142,7 @@
       "startDate": "2011-06-30",
       "endDate": "2014-04-30",
       "highlights": [],
+      "summary": "Various projects for clients (sites & web services).",
       "url": "",
       "location": "Novosibirsk, Russia"
     },
@@ -161,6 +152,7 @@
       "startDate": "2010-08-31",
       "endDate": "2013-06-30",
       "highlights": [],
+      "summary": "Large system development for managing a pharmaceutical retailer",
       "url": "",
       "location": "Novosibirsk, Russia"
     },
@@ -170,11 +162,22 @@
       "startDate": "2002-04-30",
       "endDate": "2010-06-30",
       "highlights": [],
+      "summary": "Development and control of numerous backends and integrations managed biggest bookseller's retailer infrastructure for more than 200+ servers and 300 services and subsystems in production and test",
       "url": "https://www.linkedin.com/company/top-kniga/",
       "location": "Novosibirsk, Russia"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Nuremberg Trials 2.0",
+      "position": "Community Volunteer",
+      "startDate": "2022-02-28",
+      "endDate": "2022-02-28",
+      "summary": "A project aimed at identifying citizens who publicly supported the Russian invasion of Ukraine in 2022.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
   "education": [
     {
       "institution": "Novosibirsk State University (NSU)",
@@ -184,29 +187,55 @@
       "endDate": "2002-05-31",
       "score": "",
       "courses": []
+    },
+    {
+      "institution": "Novosibirsk State University (NSU)",
+      "area": "Faculty of Humanities, specialty History",
+      "studyType": "",
+      "startDate": "1998-09-30",
+      "endDate": "2003-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Novosibirsk State Pedagogical University (NSPU)",
+      "area": "Faculty of Psychology, specialty Clinical Psychology",
+      "studyType": "",
+      "startDate": "2005-09-30",
+      "endDate": "2007-05-31",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "A Pencil test article which has long become a classic for QA and is used to teach juniors",
+      "publisher": "Habrahabr",
+      "releaseDate": "2013-09-16",
+      "summary": "A millionaire publication on Habr, which has long become a classic for QA and is used to teach juniors",
+      "url": "https://habr.com/ru/post/193902/"
+    }
+  ],
   "skills": [
     {
-      "name": "Headhunting",
+      "name": "Communication",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Hiring",
+      "name": "Technical Recruiting",
       "level": "",
       "keywords": []
     },
     {
-      "name": "International Relocations",
+      "name": "Investigation",
       "level": "",
       "keywords": []
     },
     {
-      "name": "IT Recruitment",
+      "name": "Source Intelligence",
       "level": "",
       "keywords": []
     },
@@ -226,7 +255,17 @@
       "keywords": []
     },
     {
+      "name": "Enterprise Resource Planning (ERP)",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Human Resources (HR)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
       "level": "",
       "keywords": []
     },
@@ -266,7 +305,7 @@
       "keywords": []
     },
     {
-      "name": "Go (Programming Language)",
+      "name": "DevOps",
       "level": "",
       "keywords": []
     },
@@ -276,12 +315,22 @@
       "keywords": []
     },
     {
+      "name": "Headhunting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "REST APIs",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Source Intelligence",
+      "name": "Software Development",
       "level": "",
       "keywords": []
     },
@@ -291,12 +340,17 @@
       "keywords": []
     },
     {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Celery",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Technical Recruiting",
+      "name": "PHP",
       "level": "",
       "keywords": []
     },
@@ -326,12 +380,22 @@
       "keywords": []
     },
     {
+      "name": "System Monitoring",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Perl",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Communication",
+      "name": "IT Recruitment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hiring",
       "level": "",
       "keywords": []
     },
@@ -351,7 +415,17 @@
       "keywords": []
     },
     {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Relocations",
       "level": "",
       "keywords": []
     },
@@ -373,7 +447,7 @@
   ],
   "languages": [
     {
-      "fluency": "Limited Working",
+      "fluency": "Elementary",
       "language": "English"
     },
     {
@@ -394,8 +468,88 @@
     }
   ],
   "interests": [],
-  "references": [],
-  "projects": [],
+  "references": [
+    {
+      "name": "Dmitry Kozlov",
+      "reference": "Maxim has strong OSINT-research skills, has many tools and techniques for collecting and analyzing data, and has problem-solving mindset."
+    },
+    {
+      "name": "Eugene Kropotkin",
+      "reference": "Maxim Marshak is an experienced and talented recruitment manager has a deep technical background. \nAll my friends recognizes him for his friendly nature and HR skills. \nHe is always open to listening to customers needs and never compromises his professionalism, integrity, and work ethic. \nAlso his technical background allows him to be competent in details of skills checking"
+    },
+    {
+      "name": "Vladimir Vinnikov",
+      "reference": "It's always a pleasure to work with Maxim. He puts his impressive set of hard skills to a good use. If provided with an architecture outline or a mathematical model or an algorithm, he will come with a decent software solution of an underlying problem.\nMaxim is more than competent in a cybersecurity sphere. You can rely on him that it will be no situations with any data being compromised."
+    },
+    {
+      "name": "Oleg Nikitenko",
+      "reference": "I know Maxim in Python/DevOps/Test Automation areas. He is a great specialist. He always opened for support, help, new areas learning. I may to recommend him always and everywhere. Have you a Good Luck, Max ..!"
+    },
+    {
+      "name": "Yanina Yakovleva",
+      "reference": "Давно и с удовольствием слежу за креативными постами Максима. Душевный  Джокер \nстал необходимостью в наше непростое время. "
+    },
+    {
+      "name": "Alisa Tebaeva",
+      "reference": "I know Max since 2018 when he used to administer one of the biggest communities for Russia's HR professionals in Facebook. It was the time when I started my own private practice in training and we often discussed with Max how to balance the needs of corporations and the desires for employees (and whether it is wherever possible) and what are key competencies for HR to be successful.\n\nBut our true friendship started in 2022, when I decided to leave Russia after the start of war. Just a few people were aware of it, and Max was really caring whether my plan is working out and was indeed happy when everything turned out successfully. It was also valuable as for many years Max was recruiting IT and other Tech specialists for foreign markets. \n\nMax, good luck in all your endeavours! You bring passion in everything that you are doing and this is truly inspiring."
+    },
+    {
+      "name": "Alina Runova",
+      "reference": "Maxim is an experienced and talented recruitment manager and Software developer. This great combination helps him to understand his candidate for 100% better than any other recruiters can do :)\n\nAlso, I found him a professional with great development experience and profound knowledge with a positive attitude\nAny team would be lucky to have Maxim, and I couldn’t recommend him more for any business looking for new talent!"
+    },
+    {
+      "name": "Evgeniy Vovney",
+      "reference": "I recommend Maksim as a good specialist in IT recruitment, research, monitoring of social services and communications, who develops technical solutions in these areas."
+    },
+    {
+      "name": "Nika Kvasha",
+      "reference": "I am very grateful to Max for his consultation about programming and HR. It helped me to build my strategy and move on with inspiration."
+    }
+  ],
+  "projects": [
+    {
+      "name": "linkedin2md",
+      "startDate": "2022-09-30",
+      "summary": "Project which illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format",
+      "url": "https://github.com/bormaxi8080/linkedin2md",
+      "endDate": "2022-09-30"
+    },
+    {
+      "name": "Huginn project private fork commits",
+      "startDate": "2022-07-31",
+      "summary": "Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph. Think of it as a hackable version of IFTTT or Zapier on your own server. You always know who has your data. You do.",
+      "url": "https://github.com/huginn/huginn",
+      "endDate": "2022-07-31"
+    },
+    {
+      "name": "RIP Leaks community project",
+      "startDate": "2021-06-30",
+      "summary": "RIP Leaks community project, publicly oppose the processes of Russian import substitution, including in the IT sector, and cover news on this topic",
+      "url": "https://t.me/RIPLeaks",
+      "endDate": "2021-06-30"
+    },
+    {
+      "name": "OSINT Framework (http://osintframework.com) updates",
+      "startDate": "2022-08-31",
+      "summary": "OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.",
+      "url": "https://github.com/bormaxi8080/OSINT-Framework",
+      "endDate": "2022-09-30"
+    },
+    {
+      "name": "Telepathy project updates",
+      "startDate": "2022-07-31",
+      "summary": "Telepathy, an OSINT toolkit for scraping Telegram data to help investigate shady going on.",
+      "url": "https://github.com/bormaxi8080/Telepathy",
+      "endDate": "2022-08-31"
+    },
+    {
+      "name": "ZnayTK Community Project",
+      "startDate": "2019-05-31",
+      "summary": "ZnayTK is a community project for HR managers on labor legislation in the Russia. Closed in 2021.",
+      "url": "https://www.instagram.com/znaytk/",
+      "endDate": "2021-12-31"
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"

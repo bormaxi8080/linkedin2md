@@ -134,8 +134,14 @@ do
           country_code=$(echo "$location" | jq ".countryCode")
         profiles=$(echo "$basics" | jq ".profiles")
           profiles_url=$(echo "$profiles" | jq -r ".[0,1].url")
+          profiles_url_origin=$profiles_url
+          if [ "$profiles_url" != "" ]
+          then
+            profiles_url="$profiles_url\n"
+          fi
 
           ## TODO: remove null values
+
           #profiles_url=$(sed -e 's/null//g')
           #echo "$profiles_url"
 
@@ -144,34 +150,79 @@ do
         #length=$(echo -n "$profiles_url" | wc -m)
         #echo "$length"
 
+        # Check profile photo exists
+        profile_photo_exists=0
+        PHOTO_FILE="$DIR/$profile_name.jpeg"
+        if test -f "$PHOTO_FILE"; then
+          profile_photo_exists=1
+        else
+          PHOTO_FILE="$SOURCE_PATH/$profile_name.jpeg"
+          if test -f "$PHOTO_FILE"; then
+            profile_photo_exists=1
+          fi
+        fi
+
+        profile_photo=""
+        if [ $profile_photo_exists = 1 ]
+        then
+          profile_photo="![alt text]($profile_name.jpeg "$profile_name")"
+        fi
+
         name="${name%\"}"
         name="${name#\"}"
+
         label="${label%\"}"
         label="${label#\"}"
+        label_origin=$label
+        if [ "label" != "" ]
+        then
+          label="$label\n"
+        fi
+
         email="${email%\"}"
         email="${email#\"}"
+        if [ "email" != "" ]
+        then
+          email="Email: <a href='mailto:$email'>$email</a>  "
+        fi
+
         phone="${phone%\"}"
         phone="${phone#\"}"
+        if [ "phone" != "" ]
+        then
+          phone="Phone: $phone"
+        fi
+
         url="${url%\"}"
         url="${url#\"}"
+        if [ "url" != "" ]
+        then
+          url="Url: $url\n"
+        fi
+
         summary="${summary%\"}"
         summary="${summary#\"}"
+        if [ "summary" != "" ]
+        then
+          summary="$summary\n"
+        fi
+
         country_code="${country_code%\"}"
         country_code="${country_code#\"}"
 
-      ## TODO: do not create empty values
       PROFILE_TEXT="# $name\n
-$label\n
 Profile ID: $uuid
-Location: $country_code
+Country code: $country_code
 Resume Links: [MD]($profile_name.md)  [VCF]($profile_name.vcf)  [PDF]($profile_name.pdf)  [PDF original]($profile_name.original.pdf)  [JSON]($profile_name.resume.json)\n
+$label
+$profile_photo
 Profiles:
-$profiles_url\n
-Email: <a href='mailto:$email'>$email</a>
-Phone: $phone
-Url: $url\n
+$profiles_url
+$email
+$phone
+$url
 Summary:
-$summary\n
+$summary
 ### Additional information:\n$SEPARATOR\n
 Place additional profile information here!\n\n$SEPARATOR
 ### Links:
@@ -189,10 +240,11 @@ Place additional profile information here!\n\n$SEPARATOR
 [Summary]($profile_name/$profile_name.summary.md)  [MD]($profile_name/$profile_name.md)  [VCF]($profile_name/$profile_name.vcf)  [PDF]($profile_name/$profile_name.pdf)  [PDF original]($profile_name/$profile_name.original.pdf)  [JSON]($profile_name/$profile_name.resume.json)
 
 $dt $country_code
-$email $phone
-$profiles_url
+$email
+$phone
+$profiles_url_origin
 
-$label
+$label_origin
 
 ----
 "
@@ -212,6 +264,14 @@ $label
 
   # VCF
   if [ "$extension" = "vcf" ]
+  then
+    rm -rf "$DIR"/"$base_name"
+    cp "$file" "$BACKUP_PATH"
+    mv "$file" "$DIR"
+  fi
+
+  # JPEG
+  if [ "$extension" = "jpeg" ]
   then
     rm -rf "$DIR"/"$base_name"
     cp "$file" "$BACKUP_PATH"

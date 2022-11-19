@@ -1,16 +1,17 @@
 # Diana Ponomareva
 
+Profile ID: 47D37839-4405-4661-8092-AFA3E628DE3A
+Country code: RU
+Resume Links: [MD](Diana_Ponomareva.md)  [VCF](Diana_Ponomareva.vcf)  [PDF](Diana_Ponomareva.pdf)  [PDF original](Diana_Ponomareva.original.pdf)  [JSON](Diana_Ponomareva.resume.json)
+
 Руководитель рекрутингового агентства IT.и Пишите мне в телегу @diana_com только IT специалисты Темы публикаций: #crypto, #blockchain и #recruiting
 
-Profile ID: 922D969E-CB5C-4679-B7FB-D73A8085069D
-Location: RU
-Resume Links: [MD](Diana_Ponomareva.md)  [VCF](Diana_Ponomareva.vcf)  [PDF](Diana_Ponomareva.pdf)  [PDF original](Diana_Ponomareva.original.pdf)  [JSON](Diana_Ponomareva.resume.json)
 
 Profiles:
 https://www.linkedin.com/in/diana-ponomareva/
 https://twitter.com/Diana_Redcode
 
-Email: <a href='mailto:diana.4681@mail.ru'>diana.4681@mail.ru</a>
+Email: <a href='mailto:diana.4681@mail.ru'>diana.4681@mail.ru</a>  
 Phone: +35795148563
 Url: 
 
