@@ -2,7 +2,7 @@
 
 This repository illustrates a scheme for building a simple resume/profile database based on a minimalist approach and storing structured profile information in markdown format.
 
-### Basic concepts:
+### Basic concepts
 
 Resumes/profiles come from various sources such as LinkedIn or some job boards.
 The input data can come in various formats, and in order to somehow unify this, I took two formats as a basis.
@@ -178,13 +178,13 @@ And how some fully structural system viewed:
 
 ![alt text](./images/full_system.png "Future")
 
-### Real use example:
+### Real use example
 
 I am currently experimenting with GraphView mappings on a base of over 50,000 non-abstracts real people resume loaded from one of more ATS systems and will post the results of these experiments.
 
 In this concept, I make extensive use of simple search approaches in markdown with Linux commands (sed, sed, awk and other Linux commands and specific utilities for search data in PDF, DOCX and other file formats), because it's very simple and useful.
 
-### Restrictions:
+### Restrictions
 
 *General application:
 
@@ -228,14 +228,14 @@ In the latest implementation of scripts, I added DEBUG mode support, verificatio
 
 ![alt text](./images/analyze.png "Analyze")
 
-### Cooperation:
+### Cooperation
 
 I am looking into collaborating to transform and enrich your resume databases. I have experience in this field for about 7 years. You can read more about my experience in my GitHub profile: [bormaxi8080](https://github.com/bormaxi8080/)
 
-### Donates:
+### Donates
 
 I will be grateful for donations to this project:
 
-> Etherium: 0xe29685d6f0032bccac08b0e745a1a69ef9803973
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
 
 *Note: Diana gave her permission to show her public LinkedIn profile in this project )
