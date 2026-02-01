@@ -236,6 +236,6 @@ I am looking into collaborating to transform and enrich your resume databases. I
 
 I will be grateful for donations to this project:
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/osintech)
 
 *Note: Diana gave her permission to show her public LinkedIn profile in this project )
